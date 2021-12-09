@@ -1,2 +1,2 @@
 # nayttoinfo
-Tätä repositiota käytetään Gitin opisekluun. Opiskelijat kehittavät yhdessä vinkkejä näyttöön valmistautumiseen.
+Tätä repositiota käytetään Gitin opiskeluun. Opiskelijat kehittavät yhdessä vinkkejä näyttöön valmistautumiseen.
